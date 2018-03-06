@@ -6,7 +6,7 @@ author: ggbond
 get_header(); ?>
 
 <div class="ssbody">
-<?php comments_template('/guestcomment.php'); // Get wp-comments.php template ?>
+<?php comments_template('/disqusComments.php'); // Get wp-comments.php template ?>
 </div>
 
 <?php get_footer('simple');?>
