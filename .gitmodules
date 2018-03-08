@@ -1,0 +1,3 @@
+[submodule "disqus-php-api"]
+	path = disqus-php-api
+	url = https://github.com/fooleap/disqus-php-api.git

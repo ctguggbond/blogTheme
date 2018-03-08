@@ -162,8 +162,8 @@ button,
 input,
 select,
 textarea {
-  color: #555;
-  font-family: 'Lato', serif;
+  color: #222;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Roboto, Arial, source-han-sans-simplified-c, sans-serif;
   font-size: 1.25rem;
   line-height: 1.6;
   -ms-word-wrap: break-word;
@@ -336,7 +336,7 @@ var {
   background-color: #f6f6f6;
   border: 1px solid #e6e6e6;
   display: inline-block;
-  color: #999;
+  color: #d62222;
   font-family: 'Insonsolata', monospace;
   font-size: 1rem;
   padding: 2px 4px;
